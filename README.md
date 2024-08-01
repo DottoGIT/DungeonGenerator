@@ -6,4 +6,4 @@ Most of the code is stored in [Scripts](Assets/Scripts) folder
 ## Screenshots
 ![Screenshot3](screens/screen3.png)
 ![Screenshot1](screens/screen1.png)
-![Screenshot2](screens/screen2.png))
+![Screenshot2](screens/screen2.png)
